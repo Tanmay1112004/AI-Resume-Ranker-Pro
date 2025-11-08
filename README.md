@@ -23,6 +23,15 @@
 With a **sleek dark-themed UI**, **interactive analytics**, and **AI-driven intelligence**, this tool redefines how HR teams assess and prioritize candidates.
 
 ---
+## Demo App Images
+
+![demo](https://github.com/Tanmay1112004/AI-Resume-Ranker-Pro/blob/main/scrennshots/Screenshot%202025-11-08%20112136.png)
+![demo](https://github.com/Tanmay1112004/AI-Resume-Ranker-Pro/blob/main/scrennshots/Screenshot%202025-11-08%20114226.png)
+![demo](https://github.com/Tanmay1112004/AI-Resume-Ranker-Pro/blob/main/scrennshots/Screenshot%202025-11-08%20114525.png)
+![demo](https://github.com/Tanmay1112004/AI-Resume-Ranker-Pro/blob/main/scrennshots/Screenshot%202025-11-08%20114631.png)
+![demo](https://github.com/Tanmay1112004/AI-Resume-Ranker-Pro/blob/main/scrennshots/Screenshot%202025-11-08%20114918.png)
+
+---
 
 ## ✨ **Core Highlights**
 
